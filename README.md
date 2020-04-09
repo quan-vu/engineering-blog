@@ -8,7 +8,9 @@ This is a spaces of me for sharing about my techical stack and the new technolog
 
 ## About Author
 
-Hello, Im Vu Huy Quan. I'm a Software Engineer..
+Hello, Im Vu Huy Quan. I'm a Software Engineer.
+
+and I..
 
 - Love coding and product developmemt.
 - Like writing and listening english music.
